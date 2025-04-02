@@ -1,0 +1,12 @@
+
+h
+java:S2184#"FCast one of the operands of this multiplication operation to a "long".(ç·øÿÿÿÿ8 ùÊÒ2
+L	java:S106	"+Replace this use of System.out by a logger.(¸¿£ıÿÿÿÿ8§ùÊÒ2
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¦ÒÊâ8§ùÊÒ2
+G	java:S106"+Replace this use of System.out by a logger.(Š‹®å8¨ùÊÒ2
+I
+java:S1602",Remove useless curly braces around statement(ŠûÚ´8¨ùÊÒ2
+G	java:S106"+Replace this use of System.out by a logger.(Âó¾Ñ8¨ùÊÒ2
+{
+java:S2142$"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8©ùÊÒ2

@@ -1,0 +1,12 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Alice" 3 times.( Š°8ä…„ˆİ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…8ì®ÒÒ2
+G	java:S106"+Replace this use of System.out by a logger.(ßñúº8ÀâøÒ2
+X	java:S125"<This block of commented-out lines of code should be removed.(§¡œ¨8ŞóùÒ2
+G	java:S106."+Replace this use of System.out by a logger.(«¦Ã°8‹úüÒ2
+G	java:S1061"+Replace this use of System.out by a logger.(„íí8÷…„ˆİ2
+]	java:S125L"<This block of commented-out lines of code should be removed.(ĞÂ¥Ÿùÿÿÿÿ8¿Üˆİ2
+X	java:S125P"<This block of commented-out lines of code should be removed.(‰†³Ä8¿Üˆİ2
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8øô†ˆİ2

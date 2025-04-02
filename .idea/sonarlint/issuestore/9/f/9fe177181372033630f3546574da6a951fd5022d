@@ -1,0 +1,12 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 4 times.(ÌÚüÓ8ÄñµÔ2
+c
+java:S39591"GRefactor this code so that this consumed stream pipeline is not reused.(Ÿ¶ê8˜úÃÔ2
+L	java:S106("+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8½É¶Ô2
+o
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª³‹8½ÃÔ2
+G	java:S106/"+Replace this use of System.out by a logger.(Ùİ·ú8 ĞÁÔ2
+L	java:S1062"+Replace this use of System.out by a logger.(Š¼¾êúÿÿÿÿ8¡ĞÁÔ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8úÃÔ2

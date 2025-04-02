@@ -1,0 +1,36 @@
+{
+  "mi_industries": [
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "Fig"
+    },
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "NEW"
+    },
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "Other"
+    }
+  ],
+  "gics_industries": [
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "Fig"
+    },
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "Mi"
+    },
+    {
+      "industryId": 1234,
+      "industryName": "ABC",
+      "profile": "Other"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”êÙÀ8³÷ÅÒ2
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şø‡şÿÿÿÿ8´÷ÅÒ2
+7
+java:S1220""Move this file to a named package.8´÷ÅÒ2
+m
+java:S3655h"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(üı•Ğ8ß÷ÅÒ2
+]
+java:S1854"@Remove this useless assignment to local variable "employeeList".(ÈÖà‚8á÷ÅÒ2
+C
+java:S3864"!Remove this use of "Stream.peek".(»î‘Šûÿÿÿÿ8â÷ÅÒ2
+N
+java:S1481"1Remove this unused "employeeList" local variable.(ÈÖà‚8â÷ÅÒ2
+]	java:S125!"<This block of commented-out lines of code should be removed.(é»Çİùÿÿÿÿ8ã÷ÅÒ2
+L	java:S1061"+Replace this use of System.out by a logger.(›’²üøÿÿÿÿ8ä÷ÅÒ2
+L	java:S1067"+Replace this use of System.out by a logger.(›’²üøÿÿÿÿ8ä÷ÅÒ2
+G	java:S1068"+Replace this use of System.out by a logger.(‰õã8ä÷ÅÒ2
+L
+java:S1197="*Move the array designators [] to the type.(Õéµüÿÿÿÿ8å÷ÅÒ2
+C
+java:S1481?"&Remove this unused "k" local variable.(¢³¯¯8å÷ÅÒ2
+L	java:S106L"+Replace this use of System.out by a logger.(ÀˆÕûÿÿÿÿ8å÷ÅÒ2
+L	java:S106M"+Replace this use of System.out by a logger.(ãÉè¿üÿÿÿÿ8å÷ÅÒ2
+L	java:S106T"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8æ÷ÅÒ2
+W
+java:S1612h":Replace this lambda with method reference 'Entry::getKey'.(üı•Ğ8é÷ÅÒ2
+G	java:S106i"+Replace this use of System.out by a logger.(Áß‡Ü8é÷ÅÒ2
+G	java:S106u"+Replace this use of System.out by a logger.(‚¨Ö§8ÙÕÆÒ2
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ê÷ÅÒ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ê÷ÅÒ2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ê÷ÅÒ2
+L
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ê÷ÅÒ2
+L
+java:S1128
+"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ê÷ÅÒ2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ê÷ÅÒ2
+S
+java:S1144)"1Remove this unused private "squareNumber" method.(›×ªøÿÿÿÿ8ê÷ÅÒ2
+^
+java:S1144;"BRemove this unused private "findNthHighestNumberFromArray" method.(™‹ÿX8ê÷ÅÒ2
+K
+java:S1144d".Remove this unused private "firstChar" method.(×Á´8şÀÈÒ2

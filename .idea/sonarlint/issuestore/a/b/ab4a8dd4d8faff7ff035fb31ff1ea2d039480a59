@@ -1,0 +1,5 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ΣΉ½―8ΠΨώέ2
+X	java:S125"<This block of commented-out lines of code should be removed.(―Μ™£8ΰΨώέ2
+]	java:S125"<This block of commented-out lines of code should be removed.(“γ³ϋÿÿÿÿÿ8¦μƒ‹έ2
+G	java:S106"+Replace this use of System.out by a logger.(ΧΖαξ8γΨώέ2

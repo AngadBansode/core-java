@@ -1,0 +1,12 @@
+
+7
+java:S3864"!Remove this use of "Stream.peek".(é¾•»
+<
+java:S3864"!Remove this use of "Stream.peek".(¼õõƒùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¼õõƒùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(é¾•»
+@	java:S106"+Replace this use of System.out by a logger.(þõ‘›
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

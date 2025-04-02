@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(–É…ëûÿÿÿÿ8ÛÂã“Ò2
+^
+java:S1854"<Remove this useless assignment to local variable "byAveMax".(—ÙÓÿÿÿÿÿ8ÛÂã“Ò2
+O
+java:S1481"-Remove this unused "byAveMax" local variable.(—ÙÓÿÿÿÿÿ8ÜÂã“Ò2
+X	java:S125""<This block of commented-out lines of code should be removed.(ï‡Şˆ8ŞÂã“Ò2
+X	java:S125,"<This block of commented-out lines of code should be removed.(ÆÀô8ãÑ””Ò2

@@ -1,0 +1,7 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Rajesh" 3 times.(ÖÓ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­‡¼‰
+Z
+java:S4143"DVerify this is the key that was intended; it was already set before.(ŸÈïû
+E	java:S106"+Replace this use of System.out by a logger.(›èÒ÷øÿÿÿÿ

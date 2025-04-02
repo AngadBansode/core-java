@@ -1,0 +1,45 @@
+
+q
+java:S1192F"TDefine a constant instead of duplicating this literal "Parallel Grouping: " 3 times.(ÇõŽ‘8¡ñóßÝ2
+…
+java:S1192)"cDefine a constant instead of duplicating this literal "Time taken for parallel grouping: " 5 times.(šþþ®úÿÿÿÿ8¡ñóßÝ2
+g
+java:S2095Š"JUse try-with-resources or close this "ForkJoinPool" in a "finally" clause.(¢ŠŒ^8æ«þßÝ2
+G	java:S106"+Replace this use of System.out by a logger.(à‰’µ8¿ñóßÝ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ˆò»ñ8¿ñóßÝ2
+]	java:S125"<This block of commented-out lines of code should be removed.(³ç‘âüÿÿÿÿ8¿ñóßÝ2
+L	java:S106)"+Replace this use of System.out by a logger.(šþþ®úÿÿÿÿ8ÃñóßÝ2
+L	java:S106+"+Replace this use of System.out by a logger.(Ø¹å¨ùÿÿÿÿ8ÄñóßÝ2
+G	java:S1068"+Replace this use of System.out by a logger.(ÿâÆ¿8ÆñóßÝ2
+G	java:S1069"+Replace this use of System.out by a logger.(¶„ã¶8ÆñóßÝ2
+L	java:S106E"+Replace this use of System.out by a logger.(”Çéúÿÿÿÿ8ÇñóßÝ2
+G	java:S106F"+Replace this use of System.out by a logger.(ÇõŽ‘8ÇñóßÝ2
+G	java:S106U"+Replace this use of System.out by a logger.(ÿâÆ¿8ÉñóßÝ2
+G	java:S106V"+Replace this use of System.out by a logger.(¶„ã¶8ÉñóßÝ2
+L	java:S106b"+Replace this use of System.out by a logger.(”Çéúÿÿÿÿ8ËñóßÝ2
+G	java:S106c"+Replace this use of System.out by a logger.(ÇõŽ‘8ËñóßÝ2
+a
+java:S1854h"DRemove this useless assignment to local variable "parallelGrouping".(¸øÐž8ËñóßÝ2
+R
+java:S1481h"5Remove this unused "parallelGrouping" local variable.(¸øÐž8ËñóßÝ2
+G	java:S106m"+Replace this use of System.out by a logger.(ÇŸŽ8ËñóßÝ2
+L	java:S106~"+Replace this use of System.out by a logger.(”Çéúÿÿÿÿ8ÎñóßÝ2
+G	java:S106"+Replace this use of System.out by a logger.(ÇõŽ‘8ÎñóßÝ2
+G	java:S106"+Replace this use of System.out by a logger.(÷±¦]8ÎñóßÝ2
+M	java:S106”"+Replace this use of System.out by a logger.(”Çéúÿÿÿÿ8ÐñóßÝ2
+M	java:S106•"+Replace this use of System.out by a logger.(Ø¹å¨ùÿÿÿÿ8¨ìõßÝ2
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8ø«þßÝ2
+Q
+java:S1128
+"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8ø«þßÝ2
+L
+java:S1144"/Remove this unused private "optimized3" method.(‚˜‰‚8ÐñóßÝ2
+F
+java:S1144.")Remove this unused private "test" method.(‚Ê¸¢8ÐñóßÝ2
+G
+java:S1144J"*Remove this unused private "check" method.(à—¼8ÐñóßÝ2
+P
+java:S1144f".Remove this unused private "optimized" method.(µ„ÿâýÿÿÿÿ8ÐñóßÝ2
+Q
+java:S1144q"/Remove this unused private "optimized2" method.(–·‚¾ùÿÿÿÿ8ÐñóßÝ2

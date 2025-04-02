@@ -1,0 +1,13 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "current".(„ð´Ž
+?	java:S106
+"+Replace this use of System.out by a logger.(îú‰9
+E	java:S106"+Replace this use of System.out by a logger.(ñÿéšùÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(Éïƒýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(úª™ý
+@	java:S106"+Replace this use of System.out by a logger.(“¢µŸ
+B
+java:S1481",Remove this unused "current" local variable.(„ð´Ž
+E	java:S106""+Replace this use of System.out by a logger.(©ðëûÿÿÿÿ

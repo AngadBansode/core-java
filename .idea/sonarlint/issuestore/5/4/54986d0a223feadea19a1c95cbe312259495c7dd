@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ê ßƒÔ2
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ë ßƒÔ2
+o
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(æíŸÉúÿÿÿÿ8Ï ßƒÔ2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ñ ßƒÔ2
+G	java:S106"+Replace this use of System.out by a logger.(üó¸Œ8Ñ ßƒÔ2
+L	java:S106"+Replace this use of System.out by a logger.(¶úÛùÿÿÿÿ8Ò ßƒÔ2
+L	java:S106"+Replace this use of System.out by a logger.(©“áÖøÿÿÿÿ8Ò ßƒÔ2
+L	java:S106"+Replace this use of System.out by a logger.(éú©¾ùÿÿÿÿ8Ò ßƒÔ2
+L	java:S106""+Replace this use of System.out by a logger.(·ı„©øÿÿÿÿ8Ó ßƒÔ2
+E
+java:S1172&"(Remove this unused method parameter "i".(²¨£8Ô ßƒÔ2
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ô ßƒÔ2

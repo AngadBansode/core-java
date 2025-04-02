@@ -1,0 +1,13 @@
+
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ðúÉˆ8¬À¸…Ý2
+T
+java:S1854"7Remove this useless assignment to local variable "res".(ðúÉˆ8µÀ¸…Ý2
+L	java:S106"+Replace this use of System.out by a logger.(Ü×„…øÿÿÿÿ8¿À¸…Ý2
+]	java:S125"<This block of commented-out lines of code should be removed.(§°ÇÅûÿÿÿÿ8ÀÀ¸…Ý2
+E
+java:S1481"(Remove this unused "res" local variable.(ðúÉˆ8ÔÀ¸…Ý2
+]	java:S125 "<This block of commented-out lines of code should be removed.(Ûï‡“ùÿÿÿÿ8ÕÀ¸…Ý2
+L	java:S106."+Replace this use of System.out by a logger.(­†½˜þÿÿÿÿ8áÀ¸…Ý2
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8âÀ¸…Ý2

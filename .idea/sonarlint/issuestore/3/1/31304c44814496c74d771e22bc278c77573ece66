@@ -1,0 +1,14 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óƒ˜»
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œ¸Ôÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(•ìÞÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‡ÂŽî
+E	java:S106"+Replace this use of System.out by a logger.(õÔØ‘ýÿÿÿÿ
+c
+java:S2175"HA "Map<Character, String>" cannot contain a "int" in a "Character" type.(‰ð¸‘úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(µˆœÑ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

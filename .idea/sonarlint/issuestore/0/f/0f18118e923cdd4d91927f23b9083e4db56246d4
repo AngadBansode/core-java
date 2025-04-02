@@ -1,0 +1,18 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÝ—äþÿÿÿÿ8³œ­“Ò2
+L	java:S106$"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8Âœ­“Ò2
+G	java:S106,"+Replace this use of System.out by a logger.(£ð°8Åœ­“Ò2
+L
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8Åœ­“Ò2
+Q
+java:S1128
+"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8Åœ­“Ò2
+^
+java:S1128"ARemove this unused import 'java.util.Comparator.comparingDouble'.(µ¥Ð8Åœ­“Ò2
+[
+java:S1128">Remove this unused import 'java.util.Comparator.comparingInt'.(¸ïûƒ8Åœ­“Ò2
+l
+java:S1128"JRemove this unused import 'java.util.stream.Collectors.collectingAndThen'.(ŸÓà¤ÿÿÿÿÿ8Åœ­“Ò2
+`
+java:S1128">Remove this unused import 'java.util.stream.Collectors.maxBy'.(©œÓ‰ûÿÿÿÿ8Åœ­“Ò2

@@ -1,0 +1,19 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(Ğ»©¿8ùóÁàÓ2
+]
+java:S1854N"@Remove this useless assignment to local variable "sortBySalary".(¯×—8•üÈàÓ2
+X	java:S125*"<This block of commented-out lines of code should be removed.(Ó”ÒÌ8ˆôÁàÓ2
+G
+java:S14813"*Remove this unused "entry" local variable.(†‹øš8‰ôÁàÓ2
+X	java:S1254"<This block of commented-out lines of code should be removed.(×‹¢à8‰ôÁàÓ2
+]	java:S125E"<This block of commented-out lines of code should be removed.(øòš’úÿÿÿÿ8ŠôÁàÓ2
+L	java:S106H"+Replace this use of System.out by a logger.(ÃµÉ®ıÿÿÿÿ8ŠôÁàÓ2
+]	java:S125M"<This block of commented-out lines of code should be removed.(¬‚Ùõøÿÿÿÿ8²©ÈàÓ2
+N
+java:S1481N"1Remove this unused "sortBySalary" local variable.(¯×—8šüÈàÓ2
+X	java:S125S"<This block of commented-out lines of code should be removed.(ğ»ı“8›üÈàÓ2
+]
+java:S1612X"@Replace this lambda with method reference 'System.out::println'.(Ğæ³8ŒôÁàÓ2
+G	java:S106X"+Replace this use of System.out by a logger.(Ğæ³8ŒôÁàÓ2
+L	java:S106g"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ôÁàÓ2
