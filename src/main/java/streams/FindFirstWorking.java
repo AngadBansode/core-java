@@ -12,7 +12,7 @@ public class FindFirstWorking {
                 .filter(x -> x % 2 == 0)
                 .findAny()
                 .orElse(0);
-//        System.out.println(first);
+        System.out.println(first);
 
 
         List<Integer> list2 = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);

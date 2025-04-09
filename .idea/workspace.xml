@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5273ae96-3e7b-45b5-9f4a-33250f61d4a7" name="Changes" comment="" />
+    <list default="true" id="5273ae96-3e7b-45b5-9f4a-33250f61d4a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/HighestPossibleValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/SubArrayMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/processor/CSVReadJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/processor/SimpleCSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/FindThePairOfEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/ParallelStreamInternalWorking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threads/FixedThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/PairOfEleEqualTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/PairOfEleEqualTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processor/CSVProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processor/CSVProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FindFirstWorking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FindFirstWorking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/GroupingByConcurrentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/GroupingByConcurrentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/processor/CSVProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/processor/CSVProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/FindFirstWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/streams/FindFirstWorking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/GroupingByConcurrentDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/streams/GroupingByConcurrentDemo.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +86,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -89,7 +106,7 @@
       <command value="flatMapDemo" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CSVProcessor">
+  <component name="RunManager" selected="Application.PairOfEleEqualTarget">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -120,47 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CSVProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="processor.CSVProcessor" />
-      <module name="Project-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="processor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupingByConcurrentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.GroupingByConcurrentDemo" />
-      <module name="Project-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VirusInfection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.VirusInfection" />
-      <module name="Project-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelsConsonantsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rmi.string.VowelsConsonantsCount" />
+    <configuration name="CollectAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rmi.string.CollectAnagram" />
       <module name="Project-core" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +150,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2DArrayVirusInfected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array._2DArrayVirusInfected" />
+    <configuration name="FixedThreadPoolExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.FixedThreadPoolExample" />
+      <module name="Project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighestPossibleValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.HighestPossibleValue" />
+      <module name="Project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Object.Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Object.Employee" />
+      <module name="Project-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairOfEleEqualTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.PairOfEleEqualTarget" />
       <module name="Project-core" />
       <extension name="coverage">
         <pattern>
@@ -187,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CSVProcessor" />
-        <item itemvalue="Application.VirusInfection" />
-        <item itemvalue="Application._2DArrayVirusInfected" />
-        <item itemvalue="Application.GroupingByConcurrentDemo" />
-        <item itemvalue="Application.VowelsConsonantsCount" />
+        <item itemvalue="Application.PairOfEleEqualTarget" />
+        <item itemvalue="Application.FixedThreadPoolExample" />
+        <item itemvalue="Application.HighestPossibleValue" />
+        <item itemvalue="Application.CollectAnagram" />
+        <item itemvalue="Application.Object.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -1175,6 +1192,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/rmi/string/NumberToWords.java</url>
           <line>64</line>
           <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams/FindAnyDemo.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams/FindAnyDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/array/SubArrayMaxSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-23.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java</url>
+          <line>4049</line>
+          <option name="timeStamp" value="304" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/code/task2.java</url>

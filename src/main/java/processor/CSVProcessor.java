@@ -52,7 +52,7 @@ public class CSVProcessor {
         );
 
         List<List<String>> result = processCSV(csvLines);
-
+        System.out.println("first list: " + result.get(0));
         for (List<String> row : result) {
             System.out.println(String.join(",", row));
         }

@@ -8,7 +8,7 @@ public class PairOfEleEqualTarget {
     public static void main(String[] args) {
 
         int arr[] = {1, 5, 6, 7, -1, 2};
-        int target = 7;
+        int target = 6;
 
         Map<Integer, Integer> map = new HashMap<>();
 
@@ -20,6 +20,6 @@ public class PairOfEleEqualTarget {
                 map.put(arr[i], i);
             }
         }
-        System.out.println(map);
+       // System.out.println(map);
     }
 }
