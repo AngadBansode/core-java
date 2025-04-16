@@ -8,11 +8,11 @@ public class ReduceStreamDemo {
     public static void main(String[] args) {
 
         int reduce = IntStream.of(1, 2, 3, 4, 5)
-                .reduce(1, Integer::sum);
+                .reduce(0, Integer::sum);
         System.out.println(reduce);
 
         var reduce1 = IntStream.of(1, 2, 3, 4, 5)
-                .reduce(1, (left, ri) -> left);
+                .reduce(11, (left, ri) -> left);
         System.out.println(reduce1);
 
     }

@@ -1,5 +1,6 @@
 package map;
 
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -35,7 +36,8 @@ public class MapSortedStream {
 
         return wordCounts.entrySet()
                 .stream()
-                .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
+//                .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
+                .sorted(Comparator.comparing(Map.Entry::getValue))
                 .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
     }
 }

@@ -9,7 +9,7 @@ public class CounterIncreaseByReentrantLock {
 
     private static void counterIncrement() {
 
-        while (counter <= 100) {
+        while (counter <= 10) {
             lock.lock();
             if (counter % 2 == 0 && Thread.currentThread().getName().equals("T1")) {
                 System.out.println("Thread " + Thread.currentThread().getName() + " : " + counter);
