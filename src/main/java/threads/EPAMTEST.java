@@ -14,6 +14,8 @@ public class EPAMTEST {
                         Collectors.counting()));
 
         System.out.println(result);
+
+         
     }
 
 }

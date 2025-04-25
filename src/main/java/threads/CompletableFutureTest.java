@@ -9,7 +9,7 @@ public class CompletableFutureTest {
 
 
     public static void main(String[] args) {
-        ExecutorService executor = Executors.newSingleThreadExecutor();
+        ExecutorService executor = Executors.newCachedThreadPool();
         CompletableFuture<Void> future1 = CompletableFuture.runAsync(() -> {
             try {
                 System.out.println("Future-1 ThreadName: " + Thread.currentThread().getName());

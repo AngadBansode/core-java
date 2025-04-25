@@ -34,7 +34,7 @@ public class FirstNonRepeatingChar {
         // 3. first non-repeating char from given string
 
         String given = "i love java coding"; // l
-        var aLong1 = given.chars()
+        var nonRepeating = given.chars()
                 .mapToObj(s -> Character.toLowerCase((char) s))
                 .collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()))
                 .entrySet()
@@ -43,7 +43,7 @@ public class FirstNonRepeatingChar {
                 .findFirst()
                 .orElseThrow();
 
-        System.out.println("first non-repeating: " + aLong1);
+        System.out.println("first non-repeating: " + nonRepeating);
 
     }
 }

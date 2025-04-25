@@ -20,14 +20,11 @@ public class NTTTest {
 
         System.out.println("IsNull :" + Objects.nonNull(emp));
 //        give the count of each letter
-       char [] arr =  str.toCharArray();
+        char[] arr = str.toCharArray();
         var result = str.chars().mapToObj(ch -> (char) ch)
-                .filter(chaLen ->  !chaLen.toString().isBlank())
-                 .collect(Collectors.groupingBy(unichar -> unichar,Collectors.counting()))
-                .entrySet()
-                .stream()
-                .sorted(Comparator.comparing(Map.Entry::getValue))
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1,e2)->e2, LinkedHashMap::new));
+                .filter(chaLen -> !chaLen.toString().isBlank())
+                .collect(Collectors.groupingBy(unichar -> unichar, LinkedHashMap::new, Collectors.counting()));
+
 
         System.out.println(result);
 
