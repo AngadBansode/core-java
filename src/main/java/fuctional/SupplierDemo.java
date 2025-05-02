@@ -9,6 +9,8 @@ public class SupplierDemo<T,U> {
 
 
     public static void main(String[] args) {
+        Supplier supplierDemo = () ->  "supply";
+        System.out.println("Supplier: " + supplierDemo.get());
         Supplier<String> supplier = "name"::toUpperCase;
         System.out.println(supplier.get());
 
